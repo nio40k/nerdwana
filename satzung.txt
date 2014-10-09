@@ -1,23 +1,20 @@
 §1 Name, Sitz, Eintragung, Geschäftsjahr
 
-(1) Der Verein trägt den Namen Nerdwana.
+(1) Der Verein trägt den Namen Tabletop Nerdwana.
 (2) Er hat seinen Sitz in München.
 (3) Er wird in das Vereinsregister beim Registergericht München eingetragen.
 (4) Geschäftsjahr ist das Kalenderjahr.
 
 §2 Zweck des Vereins und Zweckverwirklichung
 
-(1) Zweck des Vereins ist die Förderung von Bildung, Wissenschaft und digitaler Kunst und Kultur.
+(1) Zweck des Vereins ist die Förderung der Jugendhilfe und der Erziehung.
 (2) Der Satzungszweck wird insbesondere verwirklicht durch
 
-	Regelmäßige Treffen zur Vernetzung von Interessengruppen (sog. User-Groups) und Einzelpersonen zum Wissens- und Erfahrungsaustausch
-	Vorführung von Filmen, insbesondere Dokumentationen, Aufzeichnungen von Vorträgen und Live-Übertragungen von Veranstaltungen
-	Durchführung von Bildungsveranstaltungen und Workshops
-	Jugendarbeit und Erwachsenenbildung im Bereich Medienkompetenz. Beispielsweise Schulungen zum verantwortungsvollen Umgang mit neuen Medien in Zusammenarbeit mit öffentlichen sowie privaten Bildungseinrichtungen.
-	Förderung interdisziplinärer Arbeitsgruppen. Exemplarisch die künstlerische Betrachtung moderner Informationstechnologien und deren kreative Umsetzung in kooperativen Projekten. 
-	Einbindung künstlerischer Arbeiten zum Bereich Gesellschaft, Kultur, Design, Fertigungs- und Handwerkstechniken, Computer, neue Medien in das Vereinsleben unter anderem durch Ausstellungen in den Vereinsräumen.
-	Förderung von interkultureller Begegnung und Austausch im Kontext der internationalen Hacker- und Maker-Bewegung.
-	Bereitstellung von räumlicher und technischer Infrastruktur zur Unterstützung oben genannter Aktivitäten
+    a. die Einführung der Mitglieder in erzieherische Grundgedanken mit Hilfe von Gesellschaftsspielen.
+    b. Gesellschaftsspiele als zusätzliche Alternative im Kulturangebot der Stadt München zu fördern und den Jugendlichen Möglichkeiten zur Freizeitgestaltung zu bieten.
+    c. spezielle Jugendveranstaltungen und Turniere sowie der Zusammenarbeit mit anderen Jugendorganisationen.
+    d. die Entwicklung und Veröffentlichung eigener Arbeiten zum Themenkreis ''Spiel'', wie auch die Beurteilung von Gesellschaftsspielen nach qualitativen Gesichtspunkten.
+
     
 §3 Gemeinnützigkeit
 
