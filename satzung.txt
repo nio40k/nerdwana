@@ -1,6 +1,6 @@
 §1 Name, Sitz, Eintragung, Geschäftsjahr
 
-(1) Der Verein trägt den Namen Nerdwana.
+(1) Der Verein trägt den Namen Hammer und Schild.
 (2) Er hat seinen Sitz in München.
 (3) Er wird in das Vereinsregister beim Registergericht München eingetragen.
 (4) Geschäftsjahr ist das Kalenderjahr.
@@ -57,7 +57,7 @@ Die Organe des Vereins sind:
 (2) Der Vorstand besteht aus:
 
     einem Vorsitzenden
-    einem Stellvertreter
+    zwei Stellvertretern
     einem Kassenwart
 
 (3) Der Vorstand wird von der Mitgliederversammlung gewählt und bleibt bis zur Amtsübernahme durch seinen Nachfolger im Amt.
